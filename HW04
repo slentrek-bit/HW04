@@ -1,0 +1,17 @@
+/*
+Program Name: Small World
+Purpose: Extend programming functionality and experience
+Author: Shaun Entrekin
+Date Last Modified: 5/25/2026
+*/
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    std::cout << "***************" << std::endl;
+    std::cout << "*  Your name  *" << std::endl;
+    std::cout << "***************" << std::endl;
+
+    return 0;
+}

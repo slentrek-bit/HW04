@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     std::cout << "***************" << std::endl;
-    std::cout << "*  Your name  *" << std::endl;
+    std::cout << "*  Shaun Entrekin  *" << std::endl;
     std::cout << "***************" << std::endl;
 
     return 0;
